@@ -60,6 +60,7 @@ public class AppTest {
 		when(calculService.additionner(expression)).thenThrow(CalculException.class);
 		this.app.evaluer(expression);
 		verify(calculService).additionner(expression);
+		assertThat(systemOutRule.getLog()).contains("L'expression b+34 est invalide.");
 	}
 
 	@Test
@@ -68,6 +69,7 @@ public class AppTest {
 		when(calculService.additionner(expression)).thenThrow(CalculException.class);
 		this.app.evaluer(expression);
 		verify(calculService).additionner(expression);
+		assertThat(systemOutRule.getLog()).contains("L'expression  est invalide.");
 	}
 
 	@Test

@@ -416,3 +416,99 @@
 15:43:20.802 [main] INFO  dev.console.App - L'expression AAAA est invalide.
 15:43:20.802 [main] INFO  dev.console.App - Veuillez saisir une expression :
 15:43:22.954 [main] INFO  dev.console.App - Aurevoir :-(
+15:50:12.332 [main] INFO  dev.console.App - 1+34=35
+15:50:12.386 [main] INFO  dev.console.App - **** Application Calculatrice ****
+15:50:12.389 [main] INFO  dev.console.App - L'expression b+34 est invalide.
+15:50:12.393 [main] INFO  dev.console.App - L'expression  est invalide.
+15:50:12.394 [main] INFO  dev.console.App - **** Application Calculatrice ****
+15:50:12.395 [main] INFO  dev.console.App - Veuillez saisir une expression :
+15:50:12.395 [main] INFO  dev.console.App - Aurevoir :-(
+15:50:12.397 [main] INFO  dev.console.App - **** Application Calculatrice ****
+15:50:12.398 [main] INFO  dev.console.App - Veuillez saisir une expression :
+15:50:12.399 [main] INFO  dev.console.App - 1+2=3
+15:50:12.399 [main] INFO  dev.console.App - Veuillez saisir une expression :
+15:50:12.399 [main] INFO  dev.console.App - Aurevoir :-(
+15:50:12.400 [main] INFO  dev.console.App - **** Application Calculatrice ****
+15:50:12.400 [main] INFO  dev.console.App - Veuillez saisir une expression :
+15:50:12.400 [main] INFO  dev.console.App - L'expression AAAA est invalide.
+15:50:12.400 [main] INFO  dev.console.App - Veuillez saisir une expression :
+15:50:12.401 [main] INFO  dev.console.App - Aurevoir :-(
+15:50:12.401 [main] INFO  dev.console.App - **** Application Calculatrice ****
+15:50:12.402 [main] INFO  dev.console.App - Veuillez saisir une expression :
+15:50:12.402 [main] INFO  dev.console.App - 1+2=3
+15:50:12.402 [main] INFO  dev.console.App - Veuillez saisir une expression :
+15:50:12.402 [main] INFO  dev.console.App - 30+2=32
+15:50:12.402 [main] INFO  dev.console.App - Veuillez saisir une expression :
+15:50:12.402 [main] INFO  dev.console.App - Aurevoir :-(
+15:53:00.593 [main] INFO  dev.console.App - 1+34=35
+15:53:00.642 [main] INFO  dev.console.App - **** Application Calculatrice ****
+15:53:00.646 [main] INFO  dev.console.App - L'expression b+34 est invalide.
+15:53:00.646 [main] INFO  dev.console.App - L'expression  est invalide.
+15:53:00.647 [main] INFO  dev.console.App - **** Application Calculatrice ****
+15:53:00.647 [main] INFO  dev.console.App - Veuillez saisir une expression :
+15:53:00.647 [main] INFO  dev.console.App - Aurevoir :-(
+15:53:00.648 [main] INFO  dev.console.App - **** Application Calculatrice ****
+15:53:00.648 [main] INFO  dev.console.App - Veuillez saisir une expression :
+15:53:00.648 [main] INFO  dev.console.App - 1+2=3
+15:53:00.649 [main] INFO  dev.console.App - Veuillez saisir une expression :
+15:53:00.649 [main] INFO  dev.console.App - Aurevoir :-(
+15:53:00.650 [main] INFO  dev.console.App - **** Application Calculatrice ****
+15:53:00.650 [main] INFO  dev.console.App - Veuillez saisir une expression :
+15:53:00.650 [main] INFO  dev.console.App - L'expression AAAA est invalide.
+15:53:00.650 [main] INFO  dev.console.App - Veuillez saisir une expression :
+15:53:00.651 [main] INFO  dev.console.App - Aurevoir :-(
+15:53:00.652 [main] INFO  dev.console.App - **** Application Calculatrice ****
+15:53:00.652 [main] INFO  dev.console.App - Veuillez saisir une expression :
+15:53:00.652 [main] INFO  dev.console.App - 1+2=3
+15:53:00.652 [main] INFO  dev.console.App - Veuillez saisir une expression :
+15:53:00.653 [main] INFO  dev.console.App - 30+2=32
+15:53:00.653 [main] INFO  dev.console.App - Veuillez saisir une expression :
+15:53:00.653 [main] INFO  dev.console.App - Aurevoir :-(
+15:54:07.960 [main] INFO  dev.console.App - 1+34=35
+15:54:08.028 [main] INFO  dev.console.App - **** Application Calculatrice ****
+15:54:08.035 [main] INFO  dev.console.App - L'expression b+34 est invalide.
+15:54:08.047 [main] INFO  dev.console.App - L'expression  est invalide.
+15:54:08.048 [main] INFO  dev.console.App - **** Application Calculatrice ****
+15:54:08.048 [main] INFO  dev.console.App - Veuillez saisir une expression :
+15:54:08.049 [main] INFO  dev.console.App - Aurevoir :-(
+15:54:08.049 [main] INFO  dev.console.App - **** Application Calculatrice ****
+15:54:08.049 [main] INFO  dev.console.App - Veuillez saisir une expression :
+15:54:08.050 [main] INFO  dev.console.App - 1+2=3
+15:54:08.050 [main] INFO  dev.console.App - Veuillez saisir une expression :
+15:54:08.051 [main] INFO  dev.console.App - Aurevoir :-(
+15:54:08.052 [main] INFO  dev.console.App - **** Application Calculatrice ****
+15:54:08.052 [main] INFO  dev.console.App - Veuillez saisir une expression :
+15:54:08.053 [main] INFO  dev.console.App - L'expression AAAA est invalide.
+15:54:08.053 [main] INFO  dev.console.App - Veuillez saisir une expression :
+15:54:08.053 [main] INFO  dev.console.App - Aurevoir :-(
+15:54:08.055 [main] INFO  dev.console.App - **** Application Calculatrice ****
+15:54:08.055 [main] INFO  dev.console.App - Veuillez saisir une expression :
+15:54:08.056 [main] INFO  dev.console.App - 1+2=3
+15:54:08.056 [main] INFO  dev.console.App - Veuillez saisir une expression :
+15:54:08.056 [main] INFO  dev.console.App - 30+2=32
+15:54:08.056 [main] INFO  dev.console.App - Veuillez saisir une expression :
+15:54:08.056 [main] INFO  dev.console.App - Aurevoir :-(
+15:54:16.692 [main] INFO  dev.console.App - 1+34=35
+15:54:16.738 [main] INFO  dev.console.App - **** Application Calculatrice ****
+15:54:16.741 [main] INFO  dev.console.App - L'expression b+34 est invalide.
+15:54:16.742 [main] INFO  dev.console.App - L'expression  est invalide.
+15:54:16.744 [main] INFO  dev.console.App - **** Application Calculatrice ****
+15:54:16.744 [main] INFO  dev.console.App - Veuillez saisir une expression :
+15:54:16.745 [main] INFO  dev.console.App - Aurevoir :-(
+15:54:16.745 [main] INFO  dev.console.App - **** Application Calculatrice ****
+15:54:16.746 [main] INFO  dev.console.App - Veuillez saisir une expression :
+15:54:16.746 [main] INFO  dev.console.App - 1+2=3
+15:54:16.747 [main] INFO  dev.console.App - Veuillez saisir une expression :
+15:54:16.747 [main] INFO  dev.console.App - Aurevoir :-(
+15:54:16.748 [main] INFO  dev.console.App - **** Application Calculatrice ****
+15:54:16.748 [main] INFO  dev.console.App - Veuillez saisir une expression :
+15:54:16.749 [main] INFO  dev.console.App - L'expression AAAA est invalide.
+15:54:16.749 [main] INFO  dev.console.App - Veuillez saisir une expression :
+15:54:16.749 [main] INFO  dev.console.App - Aurevoir :-(
+15:54:16.751 [main] INFO  dev.console.App - **** Application Calculatrice ****
+15:54:16.751 [main] INFO  dev.console.App - Veuillez saisir une expression :
+15:54:16.751 [main] INFO  dev.console.App - 1+2=3
+15:54:16.751 [main] INFO  dev.console.App - Veuillez saisir une expression :
+15:54:16.752 [main] INFO  dev.console.App - 30+2=32
+15:54:16.752 [main] INFO  dev.console.App - Veuillez saisir une expression :
+15:54:16.752 [main] INFO  dev.console.App - Aurevoir :-(
