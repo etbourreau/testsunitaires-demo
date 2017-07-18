@@ -1,0 +1,418 @@
+10:41:06.487 [main] INFO  dev.service.CalculServiceTest - Etant donné, une instance de la classe CalculService
+10:41:06.490 [main] INFO  dev.service.CalculServiceTest - Lorsque j'évalue l'addition de l'expression 1+3+4
+10:41:06.490 [main] INFO  dev.service.CalculServiceTest - Alors j'obtiens le résultat 8
+10:44:35.606 [main] INFO  dev.service.CalculServiceTest - Etant donné, une instance de la classe CalculService
+10:44:35.609 [main] INFO  dev.service.CalculServiceTest - Lorsque j'évalue l'addition de l'expression 1+3+4
+10:44:35.610 [main] INFO  dev.service.CalculServiceTest - Alors j'obtiens le résultat 8
+10:49:56.045 [main] INFO  dev.service.CalculServiceTest - Etant donné, une instance de la classe CalculService
+10:49:56.050 [main] INFO  dev.service.CalculServiceTest - Lorsque j'évalue l'addition de l'expression 1+3+4
+11:09:53.567 [main] INFO  dev.service.CalculServiceTest - Etant donné, une instance de la classe CalculService
+11:09:53.575 [main] INFO  dev.service.CalculServiceTest - Lorsque j'évalue l'addition de l'expression 1+3+4
+11:10:26.303 [main] INFO  dev.service.CalculServiceTest - Etant donné, une instance de la classe CalculService
+11:10:26.307 [main] INFO  dev.service.CalculServiceTest - Lorsque j'évalue l'addition de l'expression 1+3+4
+11:10:26.413 [main] INFO  dev.service.CalculServiceTest - Alors j'obtiens le résultat 8
+11:10:45.568 [main] INFO  dev.service.CalculServiceTest - Etant donné, une instance de la classe CalculService
+11:10:45.573 [main] INFO  dev.service.CalculServiceTest - Lorsque j'évalue l'addition de l'expression 1+3+4
+11:10:45.620 [main] INFO  dev.service.CalculServiceTest - Alors j'obtiens le résultat 8
+11:12:28.671 [main] INFO  dev.service.CalculServiceTest - Etant donné, une instance de la classe CalculService
+11:12:28.677 [main] INFO  dev.service.CalculServiceTest - Lorsque j'évalue l'addition de l'expression b+cab
+11:12:28.724 [main] INFO  dev.service.CalculServiceTest - Etant donné, une instance de la classe CalculService
+11:12:28.724 [main] INFO  dev.service.CalculServiceTest - Lorsque j'évalue l'addition de l'expression 1+3+4
+11:12:28.724 [main] INFO  dev.service.CalculServiceTest - Alors j'obtiens le résultat 8
+11:13:06.340 [main] INFO  dev.service.CalculServiceTest - Etant donné, une instance de la classe CalculService
+11:13:06.345 [main] INFO  dev.service.CalculServiceTest - Lorsque j'évalue l'addition de l'expression b+cab
+11:13:06.391 [main] INFO  dev.service.CalculServiceTest - Etant donné, une instance de la classe CalculService
+11:13:06.392 [main] INFO  dev.service.CalculServiceTest - Lorsque j'évalue l'addition de l'expression 1+3+4
+11:13:06.392 [main] INFO  dev.service.CalculServiceTest - Alors j'obtiens le résultat 8
+11:14:06.811 [main] INFO  dev.service.CalculServiceTest - Etant donné, une instance de la classe CalculService
+11:14:06.816 [main] INFO  dev.service.CalculServiceTest - Lorsque j'évalue l'addition de l'expression b+cab
+11:14:06.859 [main] INFO  dev.service.CalculServiceTest - Etant donné, une instance de la classe CalculService
+11:14:06.859 [main] INFO  dev.service.CalculServiceTest - Lorsque j'évalue l'addition de l'expression 1+3+4
+11:14:06.859 [main] INFO  dev.service.CalculServiceTest - Alors j'obtiens le résultat 8
+11:15:11.149 [main] INFO  dev.service.CalculServiceTest - Etant donné, une instance de la classe CalculService
+11:15:11.154 [main] INFO  dev.service.CalculServiceTest - Lorsque j'évalue l'addition de l'expression b+cab
+11:15:11.209 [main] INFO  dev.service.CalculServiceTest - Alors j'obtiens une exception CalculException
+11:15:11.214 [main] INFO  dev.service.CalculServiceTest - Etant donné, une instance de la classe CalculService
+11:15:11.214 [main] INFO  dev.service.CalculServiceTest - Lorsque j'évalue l'addition de l'expression 1+3+4
+11:15:11.214 [main] INFO  dev.service.CalculServiceTest - Alors j'obtiens le résultat 8
+11:20:36.053 [main] INFO  dev.service.CalculServiceTest - Etant donné, une instance de la classe CalculService
+11:20:36.058 [main] INFO  dev.service.CalculServiceTest - Lorsque j'évalue l'addition de l'expression b+cab
+11:24:01.099 [main] INFO  dev.service.CalculServiceTest - Etant donné, une instance de la classe CalculService
+11:24:01.103 [main] INFO  dev.service.CalculServiceTest - Lorsque j'évalue l'addition de l'expression 1+3+4
+11:24:01.142 [main] INFO  dev.service.CalculServiceTest - Alors j'obtiens le résultat 8
+11:24:01.146 [main] INFO  dev.service.CalculServiceTest - Etant donné, une instance de la classe CalculService
+11:24:01.146 [main] INFO  dev.service.CalculServiceTest - Lorsque j'évalue l'addition de l'expression b+cab
+11:26:13.613 [main] INFO  dev.service.CalculServiceTest - Etant donné, une instance de la classe CalculService
+11:26:13.619 [main] INFO  dev.service.CalculServiceTest - Lorsque j'évalue l'addition de l'expression 1+3+4
+11:26:13.676 [main] INFO  dev.service.CalculServiceTest - Alors j'obtiens le résultat 948
+11:26:13.681 [main] INFO  dev.service.CalculServiceTest - Etant donné, une instance de la classe CalculService
+11:26:13.681 [main] INFO  dev.service.CalculServiceTest - Lorsque j'évalue l'addition de l'expression b+cab
+11:26:23.429 [main] INFO  dev.service.CalculServiceTest - Etant donné, une instance de la classe CalculService
+11:26:23.433 [main] INFO  dev.service.CalculServiceTest - Lorsque j'évalue l'addition de l'expression 1+3+4
+11:26:23.475 [main] INFO  dev.service.CalculServiceTest - Alors j'obtiens le résultat 948
+11:26:23.476 [main] INFO  dev.service.CalculServiceTest - Etant donné, une instance de la classe CalculService
+11:26:23.476 [main] INFO  dev.service.CalculServiceTest - Lorsque j'évalue l'addition de l'expression b+cab
+11:29:32.618 [main] INFO  dev.service.CalculServiceTest - Etant donné, une instance de la classe CalculService
+11:29:32.623 [main] INFO  dev.service.CalculServiceTest - Lorsque j'évalue l'addition de l'expression 121+346+481
+11:29:32.662 [main] INFO  dev.service.CalculServiceTest - Alors j'obtiens le résultat 948
+11:29:32.663 [main] INFO  dev.service.CalculServiceTest - Etant donné, une instance de la classe CalculService
+11:29:32.664 [main] INFO  dev.service.CalculServiceTest - Lorsque j'évalue l'addition de l'expression b+cab
+11:31:16.449 [main] INFO  dev.service.CalculServiceTest - Etant donné, une instance de la classe CalculService
+11:31:16.453 [main] INFO  dev.service.CalculServiceTest - Lorsque j'évalue l'addition de l'expression 121+346+481
+11:31:16.493 [main] INFO  dev.service.CalculServiceTest - Alors j'obtiens le résultat 948
+11:31:16.493 [main] INFO  dev.service.CalculServiceTest - Etant donné, une instance de la classe CalculService
+11:31:16.494 [main] INFO  dev.service.CalculServiceTest - Lorsque j'évalue l'addition de l'expression vide
+11:31:16.498 [main] INFO  dev.service.CalculServiceTest - Etant donné, une instance de la classe CalculService
+11:31:16.498 [main] INFO  dev.service.CalculServiceTest - Lorsque j'évalue l'addition de l'expression b+cab
+11:32:10.904 [main] INFO  dev.service.CalculServiceTest - Etant donné, une instance de la classe CalculService
+11:32:10.909 [main] INFO  dev.service.CalculServiceTest - Lorsque j'évalue l'addition de l'expression 121+346+481
+11:32:10.953 [main] INFO  dev.service.CalculServiceTest - Alors j'obtiens le résultat 948
+11:32:10.954 [main] INFO  dev.service.CalculServiceTest - Etant donné, une instance de la classe CalculService
+11:32:10.954 [main] INFO  dev.service.CalculServiceTest - Lorsque j'évalue l'addition de l'expression vide
+11:32:10.955 [main] INFO  dev.service.CalculServiceTest - Etant donné, une instance de la classe CalculService
+11:32:10.955 [main] INFO  dev.service.CalculServiceTest - Lorsque j'évalue l'addition de l'expression b+cab
+11:41:54.627 [main] INFO  dev.console.App - **** Application Calculatrice ****
+11:43:51.478 [main] INFO  dev.console.App - **** Application Calculatrice ****
+11:44:15.879 [main] INFO  dev.console.App - **** Application Calculatrice ****
+11:44:40.456 [main] INFO  dev.console.App - **** Application Calculatrice ****
+11:45:40.574 [main] INFO  dev.console.App - **** Application Calculatrice ****
+11:46:05.662 [main] INFO  dev.console.App - **** Application Calculatrice ****
+11:46:13.120 [main] INFO  dev.console.App - **** Application Calculatrice ****
+11:49:19.659 [main] INFO  dev.console.App - **** Application Calculatrice ****
+11:58:02.916 [main] INFO  dev.console.AppTest - Etant donné, un service CalculService qui retourne 35 à l'évaluation de l'expression 1+34
+11:58:02.925 [main] INFO  dev.console.AppTest - Lorsque la méthode 'evaluer' est invoquée
+11:58:02.927 [main] INFO  dev.console.App - 1+34=35
+11:58:02.927 [main] INFO  dev.console.AppTest - Alors le service est invoqué avec l'expression 1+34
+11:58:02.932 [main] INFO  dev.console.AppTest - Alors dans la console, s'affiche 1+34=35
+11:58:02.971 [main] INFO  dev.console.App - **** Application Calculatrice ****
+11:58:11.118 [main] INFO  dev.console.App - **** Application Calculatrice ****
+11:58:25.559 [main] INFO  dev.console.AppTest - Etant donné, un service CalculService qui retourne 35 à l'évaluation de l'expression 1+34
+11:58:25.569 [main] INFO  dev.console.AppTest - Lorsque la méthode 'evaluer' est invoquée
+11:58:25.569 [main] INFO  dev.console.AppTest - Alors le service est invoqué avec l'expression 1+34
+11:58:25.586 [main] INFO  dev.console.App - **** Application Calculatrice ****
+11:58:31.911 [main] INFO  dev.console.AppTest - Etant donné, un service CalculService qui retourne 35 à l'évaluation de l'expression 1+34
+11:58:31.920 [main] INFO  dev.console.AppTest - Lorsque la méthode 'evaluer' est invoquée
+11:58:31.922 [main] INFO  dev.console.App - 1+34=35
+11:58:31.922 [main] INFO  dev.console.AppTest - Alors le service est invoqué avec l'expression 1+34
+11:58:31.927 [main] INFO  dev.console.AppTest - Alors dans la console, s'affiche 1+34=35
+11:58:31.968 [main] INFO  dev.console.App - **** Application Calculatrice ****
+12:02:30.342 [main] INFO  dev.console.AppTest - Etant donné, un service CalculService qui retourne 35 à l'évaluation de l'expression 1+34
+12:02:30.352 [main] INFO  dev.console.AppTest - Lorsque la méthode 'evaluer' est invoquée
+12:02:30.354 [main] INFO  dev.console.App - 1+34=35
+12:02:30.354 [main] INFO  dev.console.AppTest - Alors le service est invoqué avec l'expression 1+34
+12:02:30.358 [main] INFO  dev.console.AppTest - Alors dans la console, s'affiche 1+34=35
+12:02:30.404 [main] INFO  dev.console.App - **** Application Calculatrice ****
+12:02:30.405 [main] INFO  dev.console.AppTest - Etant donné, un service CalculService qui retourne une exception à l'évaluation de l'expression b+34
+12:02:30.406 [main] INFO  dev.console.AppTest - Lorsque la méthode 'evaluer' est invoquée
+12:02:30.408 [main] INFO  dev.console.App - L'expression "b+34" est invalide
+12:02:30.408 [main] INFO  dev.console.AppTest - Alors le service est invoqué avec l'expression b+34
+12:02:30.408 [main] INFO  dev.console.AppTest - Alors une exception CalculException est lancée
+12:02:38.337 [main] INFO  dev.console.AppTest - Etant donné, un service CalculService qui retourne 35 à l'évaluation de l'expression 1+34
+12:02:38.346 [main] INFO  dev.console.AppTest - Lorsque la méthode 'evaluer' est invoquée
+12:02:38.348 [main] INFO  dev.console.App - 1+34=35
+12:02:38.348 [main] INFO  dev.console.AppTest - Alors le service est invoqué avec l'expression 1+34
+12:02:38.352 [main] INFO  dev.console.AppTest - Alors dans la console, s'affiche 1+34=35
+12:02:38.396 [main] INFO  dev.console.App - **** Application Calculatrice ****
+12:02:38.397 [main] INFO  dev.console.AppTest - Etant donné, un service CalculService qui retourne une exception à l'évaluation de l'expression b+34
+12:02:38.398 [main] INFO  dev.console.AppTest - Lorsque la méthode 'evaluer' est invoquée
+12:02:38.399 [main] INFO  dev.console.App - L'expression "b+34" est invalide
+12:02:38.400 [main] INFO  dev.console.AppTest - Alors le service est invoqué avec l'expression b+34
+12:02:38.400 [main] INFO  dev.console.AppTest - Alors une exception CalculException est lancée
+12:04:48.802 [main] INFO  dev.console.AppTest - Etant donné, un service CalculService qui retourne 35 à l'évaluation de l'expression 1+34
+12:04:48.811 [main] INFO  dev.console.AppTest - Lorsque la méthode 'evaluer' est invoquée
+12:04:48.814 [main] INFO  dev.console.App - 1+34=35
+12:04:48.814 [main] INFO  dev.console.AppTest - Alors le service est invoqué avec l'expression 1+34
+12:04:48.818 [main] INFO  dev.console.AppTest - Alors dans la console, s'affiche 1+34=35
+12:04:48.855 [main] INFO  dev.console.App - **** Application Calculatrice ****
+12:04:48.855 [main] INFO  dev.console.AppTest - Etant donné, un service CalculService qui retourne une exception à l'évaluation de l'expression b+34
+12:04:48.856 [main] INFO  dev.console.AppTest - Lorsque la méthode 'evaluer' est invoquée
+12:04:48.858 [main] INFO  dev.console.App - L'expression "b+34" est invalide
+12:04:48.858 [main] INFO  dev.console.AppTest - Alors le service est invoqué avec l'expression b+34
+12:04:48.858 [main] INFO  dev.console.AppTest - Alors une exception CalculException est lancée
+12:04:48.859 [main] INFO  dev.console.AppTest - Etant donné, un service CalculService qui retourne une exception à l'évaluation d'une expression vide
+12:04:48.859 [main] INFO  dev.console.AppTest - Lorsque la méthode 'evaluer' est invoquée
+12:04:48.859 [main] INFO  dev.console.App - L'expression "" est invalide
+12:04:48.859 [main] INFO  dev.console.AppTest - Alors le service est invoqué avec l'expression vide
+12:04:48.859 [main] INFO  dev.console.AppTest - Alors une exception CalculException est lancée
+12:10:46.708 [main] INFO  dev.console.AppTest - Etant donné, un service CalculService qui retourne 35 à l'évaluation de l'expression 1+34
+12:10:46.717 [main] INFO  dev.console.AppTest - Lorsque la méthode 'evaluer' est invoquée
+12:10:46.718 [main] INFO  dev.console.App - 1+34=35
+12:10:46.719 [main] INFO  dev.console.AppTest - Alors le service est invoqué avec l'expression 1+34
+12:10:46.723 [main] INFO  dev.console.AppTest - Alors dans la console, s'affiche 1+34=35
+12:10:46.765 [main] INFO  dev.console.App - **** Application Calculatrice ****
+12:10:46.766 [main] INFO  dev.console.AppTest - Etant donné, un service CalculService qui retourne une exception à l'évaluation de l'expression b+34
+12:10:46.767 [main] INFO  dev.console.AppTest - Lorsque la méthode 'evaluer' est invoquée
+12:10:46.769 [main] INFO  dev.console.App - L'expression "b+34" est invalide
+12:10:46.769 [main] INFO  dev.console.AppTest - Alors le service est invoqué avec l'expression b+34
+12:10:46.769 [main] INFO  dev.console.AppTest - Alors une exception CalculException est lancée
+12:10:46.769 [main] INFO  dev.console.AppTest - Etant donné, un service CalculService qui retourne une exception à l'évaluation d'une expression vide
+12:10:46.769 [main] INFO  dev.console.AppTest - Lorsque la méthode 'evaluer' est invoquée
+12:10:46.770 [main] INFO  dev.console.App - L'expression "" est invalide
+12:10:46.770 [main] INFO  dev.console.AppTest - Alors le service est invoqué avec l'expression vide
+12:10:46.770 [main] INFO  dev.console.AppTest - Alors une exception CalculException est lancée
+12:10:46.770 [main] INFO  dev.console.AppTest - Quand l’utilisateur saisit la chaîne de caractères "fin"
+12:10:46.770 [main] INFO  dev.console.App - fin=0
+12:10:46.770 [main] INFO  dev.console.AppTest - Alors dans la console, s'affiche "Aurevoir :-("
+12:11:34.745 [main] INFO  dev.console.App - 1+34=35
+12:11:34.791 [main] INFO  dev.console.App - **** Application Calculatrice ****
+12:11:34.794 [main] INFO  dev.console.App - L'expression "b+34" est invalide
+12:11:34.795 [main] INFO  dev.console.App - L'expression "" est invalide
+12:11:34.795 [main] INFO  dev.console.App - fin=0
+12:33:51.142 [main] INFO  dev.console.App - 1+34=35
+12:33:51.184 [main] INFO  dev.console.App - **** Application Calculatrice ****
+12:33:51.187 [main] INFO  dev.console.App - L'expression "b+34" est invalide.
+12:33:51.188 [main] INFO  dev.console.App - L'expression "" est invalide.
+12:33:51.188 [main] INFO  dev.console.App - Aurevoir :-(
+12:34:55.085 [main] INFO  dev.console.App - 1+34=35
+12:34:55.128 [main] INFO  dev.console.App - **** Application Calculatrice ****
+12:34:55.131 [main] INFO  dev.console.App - L'expression "b+34" est invalide.
+12:34:55.132 [main] INFO  dev.console.App - L'expression "" est invalide.
+12:34:55.132 [main] INFO  dev.console.App - Aurevoir :-(
+12:36:28.785 [main] INFO  dev.console.App - **** Application Calculatrice ****
+12:36:28.787 [main] INFO  dev.console.App - Veuillez saisir une expression :
+12:36:31.470 [main] INFO  dev.console.App - 1+2=3
+12:36:31.471 [main] INFO  dev.console.App - Veuillez saisir une expression :
+12:36:35.145 [main] INFO  dev.console.App - Aurevoir :-(
+12:36:58.785 [main] INFO  dev.console.App - **** Application Calculatrice ****
+12:36:58.788 [main] INFO  dev.console.App - Veuillez saisir une expression :
+12:37:03.891 [main] INFO  dev.console.App - L'expression "1-3" est invalide.
+12:37:03.891 [main] INFO  dev.console.App - Veuillez saisir une expression :
+12:37:11.321 [main] INFO  dev.console.App - L'expression "AAAA" est invalide.
+12:37:11.321 [main] INFO  dev.console.App - Veuillez saisir une expression :
+12:37:13.225 [main] INFO  dev.console.App - Aurevoir :-(
+12:37:20.215 [main] INFO  dev.console.App - **** Application Calculatrice ****
+12:37:20.218 [main] INFO  dev.console.App - Veuillez saisir une expression :
+12:38:42.104 [main] INFO  dev.console.App - **** Application Calculatrice ****
+12:38:42.107 [main] INFO  dev.console.App - Veuillez saisir une expression :
+12:38:44.699 [main] INFO  dev.console.App - 1+2=3
+12:38:44.699 [main] INFO  dev.console.App - Veuillez saisir une expression :
+12:38:48.137 [main] INFO  dev.console.App - 30+2=32
+12:38:48.137 [main] INFO  dev.console.App - Veuillez saisir une expression :
+12:38:51.921 [main] INFO  dev.console.App - L'expression "AAAA" est invalide.
+12:38:51.921 [main] INFO  dev.console.App - Veuillez saisir une expression :
+12:38:54.192 [main] INFO  dev.console.App - Aurevoir :-(
+15:08:30.853 [main] INFO  dev.console.App - 1+34=35
+15:08:30.896 [main] INFO  dev.console.App - **** Application Calculatrice ****
+15:08:30.898 [main] INFO  dev.console.App - L'expression "b+34" est invalide.
+15:08:30.899 [main] INFO  dev.console.App - L'expression "" est invalide.
+15:08:30.900 [main] INFO  dev.console.App - **** Application Calculatrice ****
+15:08:30.900 [main] INFO  dev.console.App - Veuillez saisir une expression :
+15:09:24.436 [main] INFO  dev.console.App - Aurevoir :-(
+15:09:24.437 [main] INFO  dev.console.App - fin=0
+15:09:24.437 [main] INFO  dev.console.App - Veuillez saisir une expression :
+15:09:49.191 [main] INFO  dev.console.App - 1+34=35
+15:09:49.237 [main] INFO  dev.console.App - **** Application Calculatrice ****
+15:09:49.240 [main] INFO  dev.console.App - L'expression "b+34" est invalide.
+15:09:49.241 [main] INFO  dev.console.App - L'expression "" est invalide.
+15:09:49.242 [main] INFO  dev.console.App - **** Application Calculatrice ****
+15:09:49.242 [main] INFO  dev.console.App - Veuillez saisir une expression :
+15:10:05.268 [main] INFO  dev.console.App - Aurevoir :-(
+15:10:05.268 [main] INFO  dev.console.App - fin=0
+15:10:05.268 [main] INFO  dev.console.App - Veuillez saisir une expression :
+15:10:10.764 [main] INFO  dev.console.App - Aurevoir :-(
+15:10:10.764 [main] INFO  dev.console.App - fin=0
+15:10:10.764 [main] INFO  dev.console.App - Veuillez saisir une expression :
+15:10:13.260 [main] INFO  dev.console.App - Aurevoir :-(
+15:10:13.260 [main] INFO  dev.console.App - fin=0
+15:10:13.260 [main] INFO  dev.console.App - Veuillez saisir une expression :
+15:10:46.422 [main] INFO  dev.console.App - 1+34=35
+15:10:46.471 [main] INFO  dev.console.App - **** Application Calculatrice ****
+15:10:46.474 [main] INFO  dev.console.App - L'expression "b+34" est invalide.
+15:10:46.475 [main] INFO  dev.console.App - L'expression "" est invalide.
+15:10:46.477 [main] INFO  dev.console.App - **** Application Calculatrice ****
+15:10:46.477 [main] INFO  dev.console.App - Veuillez saisir une expression :
+15:10:50.500 [main] INFO  dev.console.App - Aurevoir :-(
+15:10:50.500 [main] INFO  dev.console.App - Veuillez saisir une expression :
+15:10:54.676 [main] INFO  dev.console.App - Aurevoir :-(
+15:10:54.676 [main] INFO  dev.console.App - Veuillez saisir une expression :
+15:10:56.556 [main] INFO  dev.console.App - Aurevoir :-(
+15:10:56.556 [main] INFO  dev.console.App - Veuillez saisir une expression :
+15:10:58.227 [main] INFO  dev.console.App - Aurevoir :-(
+15:10:58.228 [main] INFO  dev.console.App - Veuillez saisir une expression :
+15:10:59.668 [main] INFO  dev.console.App - Aurevoir :-(
+15:10:59.668 [main] INFO  dev.console.App - Veuillez saisir une expression :
+15:11:01.116 [main] INFO  dev.console.App - Aurevoir :-(
+15:11:01.116 [main] INFO  dev.console.App - Veuillez saisir une expression :
+15:11:12.720 [main] INFO  dev.console.App - 1+34=35
+15:11:12.769 [main] INFO  dev.console.App - **** Application Calculatrice ****
+15:11:12.771 [main] INFO  dev.console.App - L'expression "b+34" est invalide.
+15:11:12.772 [main] INFO  dev.console.App - L'expression "" est invalide.
+15:11:12.773 [main] INFO  dev.console.App - **** Application Calculatrice ****
+15:11:12.773 [main] INFO  dev.console.App - Veuillez saisir une expression :
+15:11:14.788 [main] INFO  dev.console.App - Aurevoir :-(
+15:11:14.788 [main] INFO  dev.console.App - Veuillez saisir une expression :
+15:11:17.820 [main] INFO  dev.console.App - Aurevoir :-(
+15:11:17.820 [main] INFO  dev.console.App - Veuillez saisir une expression :
+15:11:20.547 [main] INFO  dev.console.App - Aurevoir :-(
+15:11:20.548 [main] INFO  dev.console.App - Veuillez saisir une expression :
+15:11:42.229 [main] INFO  dev.console.App - 1+34=35
+15:11:42.274 [main] INFO  dev.console.App - **** Application Calculatrice ****
+15:11:42.277 [main] INFO  dev.console.App - L'expression "b+34" est invalide.
+15:11:42.278 [main] INFO  dev.console.App - L'expression "" est invalide.
+15:11:42.279 [main] INFO  dev.console.App - **** Application Calculatrice ****
+15:11:42.279 [main] INFO  dev.console.App - Veuillez saisir une expression :
+15:11:44.636 [main] INFO  dev.console.App - Aurevoir :-(
+15:11:44.636 [main] INFO  dev.console.App - 1+2=0
+15:12:46.546 [main] INFO  dev.console.App - 1+34=35
+15:12:46.592 [main] INFO  dev.console.App - **** Application Calculatrice ****
+15:12:46.595 [main] INFO  dev.console.App - L'expression "b+34" est invalide.
+15:12:46.596 [main] INFO  dev.console.App - L'expression "" est invalide.
+15:12:46.596 [main] INFO  dev.console.App - **** Application Calculatrice ****
+15:12:46.596 [main] INFO  dev.console.App - Veuillez saisir une expression :
+15:21:50.296 [main] INFO  dev.console.App - 1+34=35
+15:21:50.341 [main] INFO  dev.console.App - **** Application Calculatrice ****
+15:21:50.344 [main] INFO  dev.console.App - L'expression "b+34" est invalide.
+15:21:50.345 [main] INFO  dev.console.App - L'expression "" est invalide.
+15:21:50.346 [main] INFO  dev.console.App - **** Application Calculatrice ****
+15:21:50.346 [main] INFO  dev.console.App - Veuillez saisir une expression :
+15:21:50.351 [main] INFO  dev.console.App - 1+2=0
+15:24:35.040 [main] INFO  dev.console.App - 1+34=35
+15:24:35.083 [main] INFO  dev.console.App - **** Application Calculatrice ****
+15:24:35.086 [main] INFO  dev.console.App - L'expression "b+34" est invalide.
+15:24:35.087 [main] INFO  dev.console.App - L'expression "" est invalide.
+15:24:35.087 [main] INFO  dev.console.App - **** Application Calculatrice ****
+15:24:35.088 [main] INFO  dev.console.App - Veuillez saisir une expression :
+15:24:35.091 [main] INFO  dev.console.App - 1+2=0
+15:28:07.328 [main] INFO  dev.console.App - 1+34=35
+15:28:07.369 [main] INFO  dev.console.App - **** Application Calculatrice ****
+15:28:07.372 [main] INFO  dev.console.App - L'expression "b+34" est invalide.
+15:28:07.372 [main] INFO  dev.console.App - L'expression "" est invalide.
+15:28:07.373 [main] INFO  dev.console.App - **** Application Calculatrice ****
+15:28:07.373 [main] INFO  dev.console.App - Veuillez saisir une expression :
+15:28:07.377 [main] INFO  dev.console.App - 1+2=0
+15:34:52.386 [main] INFO  dev.console.App - 1+34=35
+15:34:52.437 [main] INFO  dev.console.App - **** Application Calculatrice ****
+15:34:52.440 [main] INFO  dev.console.App - L'expression "b+34" est invalide.
+15:34:52.441 [main] INFO  dev.console.App - L'expression "" est invalide.
+15:34:52.441 [main] INFO  dev.console.App - **** Application Calculatrice ****
+15:34:52.441 [main] INFO  dev.console.App - Veuillez saisir une expression :
+15:34:52.442 [main] INFO  dev.console.App - foo=0
+15:34:52.442 [main] INFO  dev.console.App - Veuillez saisir une expression :
+15:34:52.442 [main] INFO  dev.console.App - Aurevoir :-(
+15:34:52.443 [main] INFO  dev.console.App - 1+2=0
+15:35:09.665 [main] INFO  dev.console.App - 1+34=35
+15:35:09.712 [main] INFO  dev.console.App - **** Application Calculatrice ****
+15:35:09.715 [main] INFO  dev.console.App - L'expression "b+34" est invalide.
+15:35:09.715 [main] INFO  dev.console.App - L'expression "" est invalide.
+15:35:09.716 [main] INFO  dev.console.App - **** Application Calculatrice ****
+15:35:09.716 [main] INFO  dev.console.App - Veuillez saisir une expression :
+15:35:09.717 [main] INFO  dev.console.App - foo=0
+15:35:09.717 [main] INFO  dev.console.App - Veuillez saisir une expression :
+15:35:09.717 [main] INFO  dev.console.App - Aurevoir :-(
+15:35:09.725 [main] INFO  dev.console.App - 1+2=0
+15:35:39.749 [main] INFO  dev.console.App - 1+34=35
+15:35:39.792 [main] INFO  dev.console.App - **** Application Calculatrice ****
+15:35:39.794 [main] INFO  dev.console.App - L'expression "b+34" est invalide.
+15:35:39.795 [main] INFO  dev.console.App - L'expression "" est invalide.
+15:35:39.796 [main] INFO  dev.console.App - **** Application Calculatrice ****
+15:35:39.796 [main] INFO  dev.console.App - Veuillez saisir une expression :
+15:35:39.797 [main] INFO  dev.console.App - Aurevoir :-(
+15:35:39.803 [main] INFO  dev.console.App - 1+2=0
+15:36:25.827 [main] INFO  dev.console.App - 1+34=35
+15:36:25.869 [main] INFO  dev.console.App - **** Application Calculatrice ****
+15:36:25.871 [main] INFO  dev.console.App - L'expression "b+34" est invalide.
+15:36:25.872 [main] INFO  dev.console.App - L'expression "" est invalide.
+15:36:25.874 [main] INFO  dev.console.App - **** Application Calculatrice ****
+15:36:25.874 [main] INFO  dev.console.App - Veuillez saisir une expression :
+15:36:25.874 [main] INFO  dev.console.App - Aurevoir :-(
+15:36:25.875 [main] INFO  dev.console.App - **** Application Calculatrice ****
+15:36:25.875 [main] INFO  dev.console.App - Veuillez saisir une expression :
+15:36:25.875 [main] INFO  dev.console.App - 1+2=0
+15:36:25.875 [main] INFO  dev.console.App - Veuillez saisir une expression :
+15:36:25.875 [main] INFO  dev.console.App - Aurevoir :-(
+15:39:59.618 [main] INFO  dev.console.App - 1+34=35
+15:39:59.665 [main] INFO  dev.console.App - **** Application Calculatrice ****
+15:39:59.667 [main] INFO  dev.console.App - L'expression "b+34" est invalide.
+15:39:59.668 [main] INFO  dev.console.App - L'expression "" est invalide.
+15:39:59.669 [main] INFO  dev.console.App - **** Application Calculatrice ****
+15:39:59.669 [main] INFO  dev.console.App - Veuillez saisir une expression :
+15:39:59.669 [main] INFO  dev.console.App - Aurevoir :-(
+15:39:59.670 [main] INFO  dev.console.App - **** Application Calculatrice ****
+15:39:59.670 [main] INFO  dev.console.App - Veuillez saisir une expression :
+15:39:59.670 [main] INFO  dev.console.App - 1+2=3
+15:39:59.670 [main] INFO  dev.console.App - Veuillez saisir une expression :
+15:39:59.670 [main] INFO  dev.console.App - Aurevoir :-(
+15:40:34.798 [main] INFO  dev.console.App - 1+34=35
+15:40:34.845 [main] INFO  dev.console.App - **** Application Calculatrice ****
+15:40:34.848 [main] INFO  dev.console.App - L'expression "b+34" est invalide.
+15:40:34.849 [main] INFO  dev.console.App - L'expression "" est invalide.
+15:40:34.849 [main] INFO  dev.console.App - **** Application Calculatrice ****
+15:40:34.849 [main] INFO  dev.console.App - Veuillez saisir une expression :
+15:40:34.850 [main] INFO  dev.console.App - Aurevoir :-(
+15:40:34.850 [main] INFO  dev.console.App - **** Application Calculatrice ****
+15:40:34.851 [main] INFO  dev.console.App - Veuillez saisir une expression :
+15:40:34.851 [main] INFO  dev.console.App - 1+2=3
+15:40:34.851 [main] INFO  dev.console.App - Veuillez saisir une expression :
+15:40:34.851 [main] INFO  dev.console.App - Aurevoir :-(
+15:40:34.852 [main] INFO  dev.console.App - **** Application Calculatrice ****
+15:40:34.852 [main] INFO  dev.console.App - Veuillez saisir une expression :
+15:40:34.852 [main] INFO  dev.console.App - AAAA=0
+15:40:34.852 [main] INFO  dev.console.App - Veuillez saisir une expression :
+15:40:34.853 [main] INFO  dev.console.App - Aurevoir :-(
+15:41:58.606 [main] INFO  dev.console.App - 1+34=35
+15:41:58.655 [main] INFO  dev.console.App - **** Application Calculatrice ****
+15:41:58.659 [main] INFO  dev.console.App - L'expression "b+34" est invalide.
+15:41:58.660 [main] INFO  dev.console.App - L'expression "" est invalide.
+15:41:58.660 [main] INFO  dev.console.App - **** Application Calculatrice ****
+15:41:58.661 [main] INFO  dev.console.App - Veuillez saisir une expression :
+15:41:58.661 [main] INFO  dev.console.App - Aurevoir :-(
+15:41:58.662 [main] INFO  dev.console.App - **** Application Calculatrice ****
+15:41:58.662 [main] INFO  dev.console.App - Veuillez saisir une expression :
+15:41:58.662 [main] INFO  dev.console.App - 1+2=3
+15:41:58.662 [main] INFO  dev.console.App - Veuillez saisir une expression :
+15:41:58.662 [main] INFO  dev.console.App - Aurevoir :-(
+15:41:58.663 [main] INFO  dev.console.App - **** Application Calculatrice ****
+15:41:58.663 [main] INFO  dev.console.App - Veuillez saisir une expression :
+15:41:58.663 [main] INFO  dev.console.App - L'expression "AAAA" est invalide.
+15:41:58.663 [main] INFO  dev.console.App - Veuillez saisir une expression :
+15:41:58.663 [main] INFO  dev.console.App - Aurevoir :-(
+15:42:13.724 [main] INFO  dev.console.App - 1+34=35
+15:42:13.774 [main] INFO  dev.console.App - **** Application Calculatrice ****
+15:42:13.778 [main] INFO  dev.console.App - L'expression b+34 est invalide.
+15:42:13.778 [main] INFO  dev.console.App - L'expression  est invalide.
+15:42:13.779 [main] INFO  dev.console.App - **** Application Calculatrice ****
+15:42:13.779 [main] INFO  dev.console.App - Veuillez saisir une expression :
+15:42:13.779 [main] INFO  dev.console.App - Aurevoir :-(
+15:42:13.780 [main] INFO  dev.console.App - **** Application Calculatrice ****
+15:42:13.780 [main] INFO  dev.console.App - Veuillez saisir une expression :
+15:42:13.780 [main] INFO  dev.console.App - 1+2=3
+15:42:13.780 [main] INFO  dev.console.App - Veuillez saisir une expression :
+15:42:13.780 [main] INFO  dev.console.App - Aurevoir :-(
+15:42:13.781 [main] INFO  dev.console.App - **** Application Calculatrice ****
+15:42:13.781 [main] INFO  dev.console.App - Veuillez saisir une expression :
+15:42:13.782 [main] INFO  dev.console.App - L'expression AAAA est invalide.
+15:42:13.782 [main] INFO  dev.console.App - Veuillez saisir une expression :
+15:42:13.782 [main] INFO  dev.console.App - Aurevoir :-(
+15:43:06.006 [main] INFO  dev.console.App - 1+34=35
+15:43:06.061 [main] INFO  dev.console.App - **** Application Calculatrice ****
+15:43:06.064 [main] INFO  dev.console.App - L'expression b+34 est invalide.
+15:43:06.065 [main] INFO  dev.console.App - L'expression  est invalide.
+15:43:06.065 [main] INFO  dev.console.App - **** Application Calculatrice ****
+15:43:06.065 [main] INFO  dev.console.App - Veuillez saisir une expression :
+15:43:06.066 [main] INFO  dev.console.App - Aurevoir :-(
+15:43:06.067 [main] INFO  dev.console.App - **** Application Calculatrice ****
+15:43:06.067 [main] INFO  dev.console.App - Veuillez saisir une expression :
+15:43:06.067 [main] INFO  dev.console.App - 1+2=3
+15:43:06.067 [main] INFO  dev.console.App - Veuillez saisir une expression :
+15:43:06.068 [main] INFO  dev.console.App - Aurevoir :-(
+15:43:06.069 [main] INFO  dev.console.App - **** Application Calculatrice ****
+15:43:06.070 [main] INFO  dev.console.App - Veuillez saisir une expression :
+15:43:06.072 [main] INFO  dev.console.App - L'expression AAAA est invalide.
+15:43:06.072 [main] INFO  dev.console.App - Veuillez saisir une expression :
+15:43:06.072 [main] INFO  dev.console.App - Aurevoir :-(
+15:43:06.073 [main] INFO  dev.console.App - **** Application Calculatrice ****
+15:43:06.073 [main] INFO  dev.console.App - Veuillez saisir une expression :
+15:43:06.073 [main] INFO  dev.console.App - 1+2=3
+15:43:06.073 [main] INFO  dev.console.App - Veuillez saisir une expression :
+15:43:06.074 [main] INFO  dev.console.App - 30+2=32
+15:43:06.074 [main] INFO  dev.console.App - Veuillez saisir une expression :
+15:43:06.074 [main] INFO  dev.console.App - Aurevoir :-(
+15:43:13.110 [main] INFO  dev.console.App - **** Application Calculatrice ****
+15:43:13.113 [main] INFO  dev.console.App - Veuillez saisir une expression :
+15:43:15.645 [main] INFO  dev.console.App - 1+2=3
+15:43:15.645 [main] INFO  dev.console.App - Veuillez saisir une expression :
+15:43:18.186 [main] INFO  dev.console.App - 30+2=32
+15:43:18.187 [main] INFO  dev.console.App - Veuillez saisir une expression :
+15:43:20.802 [main] INFO  dev.console.App - L'expression AAAA est invalide.
+15:43:20.802 [main] INFO  dev.console.App - Veuillez saisir une expression :
+15:43:22.954 [main] INFO  dev.console.App - Aurevoir :-(
